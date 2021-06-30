@@ -12,7 +12,7 @@ A Flappy Bird Clone made using python-pygame Library.
 
 * Install Python latest version 3.x (recommended) from [here](https://www.python.org/downloads/windows/) by using command pip install python.
 
-*NOTE : If your system has already installed the python do not forget to use python --version command.
+**NOTE : If your system has already installed the python do not forget to use python --version command.
 
 * Install PyGame 1.9.x by using command pip install pygame.
 
