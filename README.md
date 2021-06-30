@@ -35,5 +35,3 @@ Use ↑ or Space key to play and Esc to close the game.
 ![image1](https://user-images.githubusercontent.com/78924465/124012007-435cae00-d9fe-11eb-9c5f-96116c0b454b.png)
 
 <img src = "https://user-images.githubusercontent.com/78924465/124012609-f75e3900-d9fe-11eb-87a1-d39f2046f7dd.png" width = "362" height = "678">
-
-
