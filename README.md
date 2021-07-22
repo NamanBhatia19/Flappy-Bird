@@ -37,7 +37,7 @@ Use ↑ or Space key to play and Esc to close the game.
 <img src = "https://user-images.githubusercontent.com/78924465/124012609-f75e3900-d9fe-11eb-87a1-d39f2046f7dd.png" width = "362" height = "678">
 
 
-## To preview:
+## Demonstrating Video:
 
 https://user-images.githubusercontent.com/78924465/126689435-dc4f8df4-40b5-4916-b3c5-192a6f1e20da.mp4
 
